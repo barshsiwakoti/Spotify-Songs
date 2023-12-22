@@ -1,5 +1,5 @@
 # Spotify-Songs-Analysis
-In this project, songs are analyzed in Spotify. Data was cleaned using Excel and the interactive dashboard was created using Tableau. Some insights gathered from the project includes:
+In this project, songs from Spotify are analyzed. Data was cleaned using Excel and the interactive dashboard was created using Tableau. Some insights gathered from the project includes:
 - The top artist was Taylor Swift
 - Most streamed song was Blinding Lights by The Weeknd
 - There is a high correlation between energy and danceability of the songs
